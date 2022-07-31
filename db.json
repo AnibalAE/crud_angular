@@ -1,0 +1,64 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Joaoo",
+      "nascimento": "2022-07-09",
+      "classificacao": "Masculino"
+    },
+    {
+      "id": 2,
+      "nome": "Maria",
+      "nascimento": "02/02/2002",
+      "classificacao": "Feminino"
+    },
+    {
+      "id": 3,
+      "nome": "José",
+      "nascimento": "08/07/2019",
+      "classificacao": "Masculino"
+    },
+    {
+      "id": 5,
+      "nome": "Janaína",
+      "nascimento": "08/11/1996",
+      "classificacao": "Feminino"
+    },
+    {
+      "id": 6,
+      "nome": "Joana",
+      "nascimento": "11/03/2001",
+      "classificacao": "Feminino"
+    },
+    {
+      "id": 7,
+      "nome": "Vânia",
+      "nascimento": "2022-07-11",
+      "classificacao": "Feminino"
+    },
+    {
+      "id": 8,
+      "nome": "Francisco",
+      "nascimento": "11/01/2010",
+      "classificacao": "Masculino"
+    },
+    {
+      "id": 9,
+      "nome": "Luís",
+      "nascimento": "02/09/2006",
+      "classificacao": "Masculino"
+    },
+    {
+      "id": 10,
+      "nome": "Ana",
+      "nascimento": "07/05/2012",
+      "classificacao": "Feminino"
+    },
+    {
+      "nome": "Anibal",
+      "nascimento": "2022-07-08",
+      "classificacao": "Masculino",
+      "id": 11
+    }
+  ]
+}
